@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//////////////////////////////////////////////
 class marksManagement {
     static Scanner input = new Scanner(System.in);
 
@@ -13,9 +13,6 @@ class marksManagement {
         homePage();
     }
 
-    //teatinggggggggg
-    //teacher
-    //ttttttttttttttttttttttt
     // ADD NEW STUDENT
     public static void addNewStudent() {
         printLine();
