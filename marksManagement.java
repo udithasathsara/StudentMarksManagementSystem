@@ -14,7 +14,7 @@ class marksManagement {
     }
 
     //teatinggggggggg
-
+    //teacher
     // ADD NEW STUDENT
     public static void addNewStudent() {
         printLine();
