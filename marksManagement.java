@@ -13,6 +13,7 @@ class marksManagement {
         homePage();
     }
 //SAMPLE 2
+//sample 3
     // ADD NEW STUDENT
     public static void addNewStudent() {
         printLine();
