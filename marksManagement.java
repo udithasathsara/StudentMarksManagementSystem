@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//////////////////////////////////////////////
+
 class marksManagement {
     static Scanner input = new Scanner(System.in);
 
@@ -12,14 +12,13 @@ class marksManagement {
 
         homePage();
     }
-//SAMPLE 2
-//sample 3
+
     // ADD NEW STUDENT
     public static void addNewStudent() {
         printLine();
         System.out.println("|\t\t\t\t\t\tADD NEW STUDENT\t\t\t\t\t\t\t|");
         printLine();
-//////////////
+
         while (true) {
             String[] tempId = new String[sIdarr.length + 1];
             String[] tempname = new String[sIdarr.length + 1];
